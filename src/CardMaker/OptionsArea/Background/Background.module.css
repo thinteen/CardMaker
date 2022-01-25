@@ -1,0 +1,11 @@
+.background{
+    width: 98%;
+    height: 80px;
+    padding-top: 10px;
+    padding-left: 8px;
+    background-color: rgb(29, 29, 29);
+}
+
+.button_magrin{
+    margin-top: 10px;
+}

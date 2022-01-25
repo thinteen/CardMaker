@@ -1,0 +1,9 @@
+.workSpace {
+    width: 78%;
+    height: 925px;
+    background-color:black;
+    position: relative;
+    border-style: inset;
+    border-color:rgb(167, 167, 167);
+    border-width: 5px;
+}
