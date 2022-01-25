@@ -1,0 +1,9 @@
+.panelMenu {
+    width: 99%;
+    height: 50px;
+    display: flex;
+    justify-content: start;
+    padding-top: 5px;
+    padding-left: 5px;
+    background-color: black;
+}
