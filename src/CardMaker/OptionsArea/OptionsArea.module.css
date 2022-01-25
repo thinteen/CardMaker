@@ -1,0 +1,8 @@
+.optionsArea {
+    width: 28%;
+    height: 925px;
+    background-color: rgb(29, 29, 29);
+    border-style: inset;
+    border-color:rgb(167, 167, 167);
+    border-width: 5px;
+}
